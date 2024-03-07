@@ -4,39 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96fbcdc2-7169-4259-ae47-1d24415961a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Donguler/Donguler.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Donguler/src/DoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Donguler/src/Lab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Donguler/src/Lab2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Donguler/src/While.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/For/For.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/For/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/For/src/ForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IfBlogu/IfBlogu.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IfBlogu/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IfBlogu/src/Lab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lablar/Lablar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lablar/src/Lab1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lablar/src/Lab2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lablar/src/Lab3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lablar/src/Lab4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lablar/src/Lab5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lablar/src/Lab6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lablar/src/Lab7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lablar/src/Lab8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lablar/src/Lab9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SwitchCase/SwitchCase.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SwitchCase/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SwitchCase/src/Lab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SwitchCase/src/SwitchBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="96fbcdc2-7169-4259-ae47-1d24415961a4" name="Changes" comment="java101-bolum4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,11 +82,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709770297765</updated>
-      <workItem from="1709770301093" duration="16041000" />
+      <workItem from="1709770301093" duration="16417000" />
     </task>
+    <task id="LOCAL-00001" summary="java101-bolum4">
+      <option name="closed" value="true" />
+      <created>1709809670439</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709809670439</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java101-bolum4" />
+    <option name="LAST_COMMIT_MESSAGE" value="java101-bolum4" />
   </component>
 </project>
