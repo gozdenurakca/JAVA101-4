@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Donguler/Donguler.iml" filepath="$PROJECT_DIR$/Donguler/Donguler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/For/For.iml" filepath="$PROJECT_DIR$/For/For.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GelecegiKodlayanlar.iml" filepath="$PROJECT_DIR$/GelecegiKodlayanlar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfBlogu/IfBlogu.iml" filepath="$PROJECT_DIR$/IfBlogu/IfBlogu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lablar/Lablar.iml" filepath="$PROJECT_DIR$/Lablar/Lablar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchCase/SwitchCase.iml" filepath="$PROJECT_DIR$/SwitchCase/SwitchCase.iml" />
+    </modules>
+  </component>
+</project>
